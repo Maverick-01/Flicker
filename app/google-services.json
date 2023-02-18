@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707059484698",
+    "project_id": "my-memory-38f0c",
+    "storage_bucket": "my-memory-38f0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707059484698:android:2698f0d565297e048fa9a3",
+        "android_client_info": {
+          "package_name": "com.maverick.flicker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707059484698-1ucaj28h54ac7hlq0ojqgt5ernufm4p7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW81uNSW7nF-HCzBM89aXJHTkv7ctSatI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707059484698-1ucaj28h54ac7hlq0ojqgt5ernufm4p7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
